@@ -1,0 +1,6 @@
+# autovacuum_informations extension
+comment = 'information functions for autovacuum work'
+default_version = '1.0'
+module_pathname = '$libdir/autovacuum_informations'
+relocatable = false
+schema = pg_catalog
