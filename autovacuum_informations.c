@@ -3,7 +3,7 @@
  * autovacuum_informations.c
  *
  *
- * Copyright (c) 2015, Guillaume Lelarge
+ * Copyright (c) 2015-2026, Guillaume Lelarge
  *
  * Author: Guillaume Lelarge <guillaume@lelarge.info>
  *
